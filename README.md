@@ -26,8 +26,9 @@ You start with $30,000 in savings, an idea, and a laptop. From there:
   and acquisition offers, most with a real trade-off attached.
 
 Reach a $100M valuation and $400k MRR to IPO, accept a strong acquisition offer, or just try to
-avoid running out of runway. Full rules and a step-by-step walkthrough are built into the game
-itself — open **How to Play** from the title screen.
+avoid running out of runway. Full rules and a step-by-step walkthrough are in
+[HOW_TO_PLAY.md](HOW_TO_PLAY.md), and the same guide is built into the game itself — open
+**How to Play** from the title screen.
 
 ## Getting started
 
