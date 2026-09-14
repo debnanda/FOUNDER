@@ -13,16 +13,16 @@ entire simulation is hand-rolled.
 
 You start with $30,000 in savings, an idea, and a laptop. From there:
 
-- **Product** — engineers generate dev points, split between shipping features and paying down
+- **Product** : engineers generate dev points, split between shipping features and paying down
   tech debt via a focus slider. Feature work is fast but piles up debt, which drives churn and
   outages. Launch once the MVP bar fills.
-- **Team** — hire engineers, designers, marketers, and sales from a rotating candidate pool.
+- **Team** : hire engineers, designers, marketers, and sales from a rotating candidate pool.
   Morale drifts with crunch, perks, and cash trouble, and burned-out people quit.
-- **Growth** — set a weekly marketing budget against a CAC that rises as you saturate the market;
+- **Growth** : set a weekly marketing budget against a CAC that rises as you saturate the market;
   organic growth scales with product appeal and virality.
-- **Money** — raise Pre-seed through Series B at metric-gated valuations, tracked on a live cap
+- **Money** : raise Pre-seed through Series B at metric-gated valuations, tracked on a live cap
   table that dilutes as you go.
-- **Events** — press features, viral moments, outages, competitor launches, poaching attempts,
+- **Events** : press features, viral moments, outages, competitor launches, poaching attempts,
   and acquisition offers, most with a real trade-off attached.
 
 Reach a $100M valuation and $400k MRR to IPO, accept a strong acquisition offer, or just try to
