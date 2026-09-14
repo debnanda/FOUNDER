@@ -1,0 +1,24 @@
+{
+  "name": "founder",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A pixel-art startup management sim built with Electron, Vite, and TypeScript.",
+  "license": "MIT",
+  "type": "module",
+  "main": "electron/main.cjs",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "start": "vite build && electron .",
+    "app": "electron .",
+    "package:win": "npm run build && electron-packager . Founder --platform=win32 --arch=x64 --out=release --overwrite --ignore=\"^/(src|scripts|release)($|/)\" --ignore=\"^/node_modules/(?!electron($|/))\" --ignore=\"\\.map$\""
+  },
+  "devDependencies": {
+    "@electron/packager": "^20.3.0",
+    "electron": "^33.2.0",
+    "tsx": "^4.23.1",
+    "typescript": "~5.6.3",
+    "vite": "^6.0.0",
+    "ws": "^8.21.1"
+  }
+}
